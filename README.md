@@ -1,2 +1,2 @@
 # Canisius
-OSIS Petrud Canisiusvertaling
+OSIS Petrus Canisiusvertaling
