@@ -1,4 +1,4 @@
-#OSIS Petrus Canisiusvertaling
+# OSIS Petrus Canisiusvertaling
 
 >*De Heilige Schrift, vertaling uit de grondtekst, in opdracht van de Apologetische Vereniging ‘Petrus Canisius’ ondernomen met goedkeuring van de hoogwaardige bisschoppen van Nederland.**
 
